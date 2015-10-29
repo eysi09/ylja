@@ -1,0 +1,27 @@
+@font-face {
+ font-family: Eutemia;
+ src: url("Eutemia.eot") /* EOT file for IE */
+}
+@font-face {
+ font-family: Eutemia;
+ src: url("Eutemia.ttf") /* TTF file for CSS3 browsers */
+}
+
+@font-face {
+ font-family: Walkway;
+ src: url("Walkway SemiBold.eot") /* EOT file for IE */
+}
+@font-face {
+ font-family: Walkway;
+ src: url("Walkway SemiBold.ttf") /* TTF file for CSS3 browsers */
+}
+
+@font-face {
+ font-family: Walkway Bold;
+ src: url("Walkway Bold.ttf") /* TTF file for CSS3 browsers */
+}
+
+@font-face {
+ font-family: Walkway Black;
+ src: url("Walkway Black.ttf") /* TTF file for CSS3 browsers */
+}
